@@ -1,13 +1,6 @@
 .navbar {
   background-color: black;
 }
-.jumbotron {
-  background-image: url("stadium.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: white;
-  height: 300px;
-}
 h2 {
   text-align: center;
 }
@@ -18,4 +11,51 @@ h2 {
    margin-left:auto;
    margin-right:auto;
    display:block;
+   background-color: darkgray;
+}
+body {
+  background-color: black;
+}
+.img-thumbnail {
+  margin-bottom: 10px;
+}
+#bottom-page {
+  color: gray;
+  border-bottom: .5px solid #343a40;
+  border-top: .5px solid #343a40;
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+}
+.footer-link {
+  color: gray;
+}
+#slideshow-carousel {
+  padding-top: 50px;
+  height: 500px;
+}
+.img-description {
+  max-width: 100%;
+  max-height: 85%;
+  align-items: left;
+}
+.img-description2 {
+  max-width: 100%;
+  max-height: 85%;
+  align-items: right;
+}
+.h5-description{
+  text-align: left;
+  font-weight: bold;
+  text-decoration: underline;
+  color: lightgray;
+}
+.container-trip-pages {
+  padding: 20px 20px 20px 20px;
+}
+.display-4 {
+  font-size: 36px;
+}
+.lead {
+  font-size: 24px;
+  font-style: italic;
 }
