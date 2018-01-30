@@ -71,20 +71,20 @@ body {
   font-style: italic;
 }
 #col1 {
-  margin-left: -40px;
-  padding-left: 0px;
+  margin-left: 0px;
+  padding-left: 20px;
 }
 #col2 {
-  margin-left: -40px;
-  padding-left: 0px;
+  margin-left: 0px;
+  padding-left: 20px;
 }
 #col3 {
-  margin-left: -20px;
-  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 40px;
 }
 #col4 {
-  margin-left: -20px;
-  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 40px;
 }
 #about {
   background-image: url(about4.jpg);
