@@ -100,6 +100,7 @@ body {
   min-height:150px;
   padding-left: 100px;
   padding-right: 80px;
+  padding-top: 10px;
 }
 #about-row2 {
   color: black;
@@ -107,6 +108,7 @@ body {
   min-height:150px;
   padding-left: 100px;
   padding-right: 80px;
+  padding-top: 10px;
 }
 .about-link {
   color: lightgray;
